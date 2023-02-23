@@ -1,6 +1,8 @@
 # Real Time Operating System - RTOS
 Building my own Real Time Operating system using ```STM32F411 MCU``` which is based on ```ARM-Cortex-M4``` architecture. The development board which I'm using is ```Nucleo-F411RE```.[Details of Nucleo-F411RE](https://www.digikey.in/en/maker/blogs/st-nucleo-a-powerful-low-cost-alternative-to-the-arduino)
 
+Difference between Microprocessor and Microcontroller(MCU): This [blog](https://www.linquip.com/blog/difference-between-microprocessor-and-microcontroller/#:~:text=The%20main%20difference%20between%20Microprocessor%20and%20Microcontroller%20is,with%20different%20instruments%20to%20apply%20a%20particular%20application.) will help us understan the difference between the two.
+
 ## Documments Required
 
 The following doccuments will help in buiding our own RTOS :
