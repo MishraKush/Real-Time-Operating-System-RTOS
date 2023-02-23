@@ -1,5 +1,5 @@
 # Real Time Operating System - RTOS
-Building my own Real Time Operating system using ```STM32F411 MCU``` which is based on ```ARM-Cortex-M4``` architecture. The development board which I'm using is ```Nucleo-F411RE```
+Building my own Real Time Operating system using ```STM32F411 MCU``` which is based on ```ARM-Cortex-M4``` architecture. The development board which I'm using is ```Nucleo-F411RE```.[Details of Nucleo-F411RE](https://www.digikey.in/en/maker/blogs/st-nucleo-a-powerful-low-cost-alternative-to-the-arduino)
 
 ## Documments Required
 
